@@ -8,18 +8,18 @@ IT MEANS IF WE CAN DO A THING THEN WE CAN LEARN OR ACHIEVE MANY THINGS LIKE THAT
 
 <<TOOLS-AND-TECHNOLOGIES: 
 
-    1. In this assignment i have used Node.js as backend language
+    1. In this project i have used Node.js as backend language
     2. I have used Express.js.. Basically Express is a very popular framework of Node.js which is used 
     for devlop the backend of a web application
-    3. I have used oSQL DB which is the primary database.
+    3. I have used NoSQL DB which is the primary database.
     4. I have optimized the api calls .
     5. All of the codes are written in proper fashion to increase readbility ..
-    6. In this assignment i have used <REDIS> for web caching at the time of retrieve data 1st data will find from redis if there is no data then it will            
+    6. In this project i have used <REDIS> for web caching at the time of retrieve data 1st data will find from redis if there is no data then it will            
     automatically jump to our primary databases
-    7. According to assignment I have used proper Authentication or authorization for updating and deleting the raw data.
-    8. In this assignment i have used the industry level validation package <joi> for proper validation .
-    9. In this assignment a user can retrieve the flight data by choosing origin & destination & departure as well as return date also 
-    10. In this assignment i have used proper pagination to increase readbility
+    7. According to project I have used proper Authentication or authorization for updating and deleting the raw data.
+    8. In this project i have used the industry level validation package <joi> for proper validation .
+    9. In this project a user can retrieve the flight data by choosing origin & destination & departure as well as return date also 
+    10. In this project i have used proper pagination to increase readbility
     11. By the help of redis it is faster to fetch data rather than hitting primary database.
     12. Here i have used <custom-id> package to create own Flight ticket number..
     13. By the help of <JWT(json web token)> authentication and authorization going very good in this assignment.
